@@ -1,4 +1,4 @@
-# wbs_finalproject
+# E-Scooter Demand Deck
 
 During the bootcamp, part of the Data Engineering module, we have collected city information, weather information and flight data. The main idea was to enhance this task with predicting E-scooter demand modelling.
 This repository explains the final project done as part of Data Science bootcamp at WBS school.
